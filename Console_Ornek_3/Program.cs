@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Console_Ornek_3
 {
@@ -15,6 +11,7 @@ namespace Console_Ornek_3
                ks.kisilistesi("Ali Alper");
                Console.Read(); */
 
+            // Klavyeden girileceki isim on kere yazdırılır
             Kisiler ks = new Kisiler();
             string ads;
             Console.Write("Bİr isim giriniz!: ");
