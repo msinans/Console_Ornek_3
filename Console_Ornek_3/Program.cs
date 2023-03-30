@@ -6,10 +6,11 @@ namespace Console_Ornek_3
     {
         static void Main(string[] args)
         { // Aşağıdaki isimler on kere yazdırılır
-            /* Kisiler ks = new Kisiler();
-               ks.kisilistesi("Murat Sadi");
-               ks.kisilistesi("Ali Alper");
-               Console.Read(); */
+            /*Kisiler ks = new Kisiler();
+              ks.kisilistesi("Murat Sadi");
+              ks.kisilistesi("Ali Alper");
+              Console.Read();
+            */
 
             // Klavyeden girileceki isim on kere yazdırılır
             Kisiler ks = new Kisiler();
